@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Nova Technologies",
+    "location": "Bengaluru",
+    "category": "Technology",
+    "experience": "1-3 years",
+    "salary": "₹6-10 LPA",
+    "description": "Build polished React experiences and reusable frontend components.",
+    "skills": ["React", "JavaScript", "CSS"]
+  },
+  {
+    "id": "2",
+    "title": "Java Backend Engineer",
+    "company": "FinEdge",
+    "location": "Pune",
+    "category": "Technology",
+    "experience": "2-4 years",
+    "salary": "₹8-14 LPA",
+    "description": "Design scalable Spring Boot APIs and MongoDB-backed services.",
+    "skills": ["Java", "Spring Boot", "MongoDB"]
+  },
+  {
+    "id": "3",
+    "title": "UI/UX Designer",
+    "company": "Wibe Studio",
+    "location": "Gurugram",
+    "category": "Design",
+    "experience": "0-2 years",
+    "salary": "₹4-8 LPA",
+    "description": "Create human-centered digital products from research to high-fidelity UI.",
+    "skills": ["Figma", "UX", "Research"]
+  }
+]
