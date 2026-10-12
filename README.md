@@ -40,3 +40,4 @@ Backend: http://localhost:8080
 
 ## Important architecture note
 The requested stack says "React and Node.js for frontend" and "Java for backend". React itself runs in the browser; Node.js is therefore used here for Vite/npm development and build tooling, while Java/Spring Boot owns the REST backend. MongoDB is the database.
+# JobWale
